@@ -22,7 +22,7 @@ const Index = () => (
           transition={{ duration: 0.6, delay: 0.15 }}
           className="mx-auto mt-6 max-w-xl text-lg text-primary-foreground/70"
         >
-          Get a modern, mobile-friendly website for only <span className="font-semibold text-accent">R1500</span>
+          Get a modern, mobile-friendly website for only <span className="font-semibold text-accent">R500</span>
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 20 }}

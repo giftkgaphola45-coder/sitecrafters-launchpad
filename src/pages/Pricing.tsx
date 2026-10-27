@@ -27,7 +27,7 @@ const Pricing = () => (
           className="w-full max-w-md rounded-2xl border-2 border-accent bg-card p-10 text-center shadow-lg"
         >
           <p className="text-sm font-medium uppercase tracking-wider text-accent">Complete Website</p>
-          <p className="mt-4 font-display text-5xl font-bold text-card-foreground">R1500</p>
+          <p className="mt-4 font-display text-5xl font-bold text-card-foreground">R500</p>
           <p className="mt-1 text-sm text-muted-foreground">once-off payment</p>
 
           <ul className="mt-8 space-y-3 text-left">
